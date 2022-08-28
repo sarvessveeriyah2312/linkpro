@@ -1,7 +1,6 @@
 {
   "name": "linkpro",
   "version": "2.2.0",
-  "homepage": "https://sarvessveeriyah2312.github.io/linkpro/",
   "description": "A free Linktree alternative built with React and Tailwind.",
   "main": "index.js",
   "scripts": {

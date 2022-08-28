@@ -5,6 +5,8 @@ import Head from 'next/head'
 import { initGA, logPageView } from '../utils/analytics'
 import { useEffect } from 'react';
 
+const prefix ='/linkpro';
+
 function IndexPage() {
   useEffect(() => {
     if (!window.GA_INITIALIZED) {
