@@ -18,7 +18,7 @@ function IndexPage() {
     <div className="flex flex-col min-h-screen">
       {/* FontAwesome CDN style tag */}
       <Head>
-        <title>Pieter Montoulieu | LinkEnt</title>
+        <title>Sarvess Veeriyah | LinkPro</title>
         <meta
           name="description"
           content="🌲 A free Linktree alternative built with React and Tailwind."
