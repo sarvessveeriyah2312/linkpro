@@ -1,15 +1,15 @@
 {
   "name": "linkpro",
   "version": "2.2.0",
-  "homepage": "https://sarvessveeriyah2312.github.io/linkpro",
+  "homepage": "https://sarvessveeriyah2312.github.io/linkpro/",
   "description": "A free Linktree alternative built with React and Tailwind.",
   "main": "index.js",
   "scripts": {
     "dev": "next",
     "build": "next build",
     "export": "npm run build && next export",
-    "predeploy": "npm run next build",
-    "deploy": "gh-pages -d next build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d  build ",
     "start": "next start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
