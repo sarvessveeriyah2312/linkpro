@@ -5,4 +5,6 @@ module.exports = {
   },
   variants: {},
   plugins: [],
+  basePath: "/nextjs-pages",
+  assetPrefix: "/nextjs-pages",
 };
