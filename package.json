@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "next",
-    "build": "next",
+    "build": "next build",
     "export": "npm run build && next export",
     "predeploy": "npm run build",
     "deploy": "gh-pages deploy",
