@@ -1,9 +1,18 @@
 [
-
   {
-    "title": "Linkedln Profile",
+    "title": "linkedin.com/Sarvess Veeriyah",
     "url": "https://www.linkedin.com/in/sarvess-veeriyah-839345192/",
     "emoji": "🤙"
+  },
+  {
+    "title": "Mail",
+    "url": "mailto:sarvess.jr@outlook.com",
+    "emoji": "📧"
+  },
+  {
+    "title": "facebook.com/Sarvess Veeriyah",
+    "url": "https://m.facebook.com/sarvess.peace",
+    "emoji": "🔗"
   },
   {
     "title": "🚧 Under Construction 🚧",
@@ -11,19 +20,8 @@
     "emoji": "🌐"
   },
   {
-    "title": "Facebook",
-    "url": "https://m.facebook.com/sarvess.peace",
-    "emoji": "🔗"
-  },
-  {
-    "title": "GitHub Repository",
+    "title": "github.com/sarvessveeriyah2312/linkpro",
     "url": "https://github.com/sarvessveeriyah2312/linkpro.git",
     "emoji": "👨‍💻"
-  },
-  {
-    "title": "Mail",
-    "url": "mailto:sarvess.jr@outlook.com",
-    "emoji": "📧"
-  }
-  
+  } 
 ]
