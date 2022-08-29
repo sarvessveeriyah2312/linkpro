@@ -20,6 +20,7 @@ function IndexPage() {
     <div className="flex flex-col min-h-screen">
       {/* FontAwesome CDN style tag */}
       <Head>
+        <link rel="shortcut icon" href="favicon.png" />
         <title>Sarvess Veeriyah | LinkPro</title>
         <meta
           name="description"
