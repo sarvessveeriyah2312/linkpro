@@ -2,7 +2,8 @@
 
 > A free Linktree alternative built with Next.js and Tailwind.
 
-![Image of LinkPro frontend](https://github.com/montoulieu/linkpro/blob/master/public/LinkProPreview.jpg?raw=true)
+
+![Capture](https://user-images.githubusercontent.com/49172946/187119212-78ce6fb2-44e9-404c-acf9-341f013df1c8.PNG)
 
 
 
