@@ -10,7 +10,7 @@
 
 ## Setup
 ### Clone LinkPro using the "new-leaf" branch
-`git clone -b new-leaf git@github.com:montoulieu/linkpro.git`
+`git clone -b new-leaf git@github.com:sarvessveeriyah2312/linkpro.git`
 
 ### Install all NPM dependencies
 `npm i` 
