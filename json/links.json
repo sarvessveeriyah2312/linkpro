@@ -6,14 +6,24 @@
     "emoji": "🤙"
   },
   {
-    "title": "Portfolio ",
+    "title": "🚧 Under Construction 🚧",
     "url": "",
-    "emoji": "🚧"
+    "emoji": "🌐"
   },
   {
-    "title": "Github Page",
-    "url": "https://github.com/sarvessveeriyah2312",
+    "title": "Facebook",
+    "url": "https://m.facebook.com/sarvess.peace",
+    "emoji": "🔗"
+  },
+  {
+    "title": "GitHub Repository",
+    "url": "https://github.com/sarvessveeriyah2312/linkpro.git",
     "emoji": "👨‍💻"
+  },
+  {
+    "title": "Mail",
+    "url": "mailto:sarvess.jr@outlook.com",
+    "emoji": "📧"
   }
   
 ]
